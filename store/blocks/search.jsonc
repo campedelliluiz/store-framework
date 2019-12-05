@@ -23,15 +23,15 @@
     ]
   },
   "flex-layout.row#results": {
-    "props": {
-      "width": "100%"
-    },
     "children": [
       "flex-layout.col#filter",
       "flex-layout.col#search"
     ]
   },
   "flex-layout.col#filter": {
+    "props": {
+      "width": "100%"
+    },
     "children": [
       "filter-navigator.v3"
     ]
