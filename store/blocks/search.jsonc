@@ -23,6 +23,9 @@
     ]
   },
   "flex-layout.row#results": {
+    "props": {
+      "width": "100%"
+    },
     "children": [
       "flex-layout.col#filter",
       "flex-layout.col#search"
@@ -43,11 +46,6 @@
       "total-products.v2",
       "order-by.v2"
     ]
-  },
-  "flex-layout.col#filter": {
-    "props": {
-      "width": "100%"
-    }
   },
   "search-content": {
     "blocks": [
