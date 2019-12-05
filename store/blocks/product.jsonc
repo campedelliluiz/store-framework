@@ -54,7 +54,7 @@
   }, 
   "product-brand": {
     "props": {
-      "height": 30
+      "height": "30"
     }
   },
   "sku-selector": {
